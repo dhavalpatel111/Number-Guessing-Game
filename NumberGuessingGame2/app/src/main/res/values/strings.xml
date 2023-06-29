@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NumberGuessingGame</string>
+
+    <string name="app_id">ca-app-pub-3940256099942544~3347511713</string>
+
+    <string name="banner_ad">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner2_ad_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner3_ad_id">ca-app-pub-3940256099942544/6300978111</string>
+
+
+    <string name="interstitial_ad_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="rewarded_ad_id">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="rewarded_ad_id2">ca-app-pub-3940256099942544/5224354917</string>
+</resources>
